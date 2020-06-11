@@ -3,7 +3,7 @@
 ## Description
 Enable NFC-SIM Function For OnePlus6T on Android 10
 ## Requirements
-* NFC-SIM (already activate)
+* NFC-SIM (already activated)
 * Oneplus 6T
 * OxygenOS 10
 * Magisk 19+
@@ -15,11 +15,11 @@ Enable NFC-SIM Function For OnePlus6T on Android 10
 ```diff
 + Daily Use
 ```
-## Already Test
+## Already Tested
 * CHT NFC-SIM Card
 * EasyCard
 * Stock Stable OOS 10.3.1  
-* Convenience Store POS and Kiosk TEST WORK!
+* Convenience Store POS and Kiosk
 * Bus、MRT、Train 
 ## Credits 
 * Big Thanks to shakalaca make nfc-sim works on 6T OOS 9.X
